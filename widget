@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=200px, initial-scale=1.0">
     <title>Calendar</title>
 
     <style>
@@ -23,7 +23,7 @@
 
 #calendar {
     margin:  0 auto;
-    font-size: 14px;
+    font-size: 10px;
 }
 table {
     border-collapse: collapse;
@@ -41,7 +41,7 @@ table {
     font-size: 1.5em;
 }
 .year {
-    font-size: 12px;
+    font-size: 8px;
     font-weight: normal;
     display: block;
     text-shadow: none;
